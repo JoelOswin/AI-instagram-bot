@@ -7,5 +7,5 @@ The main.py script combines my generate_image.py script with instragrapi api to 
 ```bash
 pip install instagrapi
 ```
-In the images directory, paste the image of your AI avator.<br><br>Finally, Setup cron or task scheduler(windows) to periodically run main.py and post on instagram :smile: <br><br>If you made it this far and found my repo useful, please consider giving me a star :star: <br>
+In the images directory, paste the image of your AI avator.<br><br>Finally, Setup cron or task scheduler(windows) to periodically run main.py and post on instagram :smile: <br><br>I created an AI avatar using this script, check him out :relaxed: <br>ID: @steph_fan_oswin<br><br>If you made it this far and found my repo useful, please consider giving me a star :star: <br>
 <b>Thank you :) </b>
