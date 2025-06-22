@@ -1,0 +1,7 @@
+session.json
+images/
+generated_image.jpg
+generated_text.txt
+app.log
+temp.py
+__pycache__/
